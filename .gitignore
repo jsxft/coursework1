@@ -3,3 +3,24 @@
 ################################################################################
 
 /BinPacking/BinPacking.sln
+/BinPacking/BinPacking/BinPacking.vcxproj.user
+/BinPacking/BinPacking/BinPacking.vcxproj.filters
+/BinPacking/BinPacking/BinPacking.vcxproj
+/BinPacking/BinPacking/Debug/vc141.pdb
+/BinPacking/BinPacking/Debug/vc141.idb
+/BinPacking/BinPacking/Debug/subset.obj
+/BinPacking/BinPacking/Debug/generators.obj
+/BinPacking/BinPacking/Debug/BinPacking.tlog/unsuccessfulbuild
+/BinPacking/BinPacking/Debug/BinPacking.tlog/CL.write.1.tlog
+/BinPacking/BinPacking/Debug/BinPacking.tlog/CL.read.1.tlog
+/BinPacking/BinPacking/Debug/BinPacking.tlog/CL.command.1.tlog
+/BinPacking/BinPacking/Debug/BinPacking.tlog/BinPacking.lastbuildstate
+/BinPacking/BinPacking/Debug/BinPacking.log
+/BinPacking/.vs/BinPacking/v15/Browse.VC.opendb
+/BinPacking/.vs/BinPacking/v15/Browse.VC.db
+/BinPacking/.vs/BinPacking/v15/.suo
+/.vs/VSWorkspaceState.json
+/.vs/slnx.sqlite
+/.vs/ProjectSettings.json
+/.vs/coursework1/v15/Browse.VC.db
+/.vs/coursework1/v15/.suo
